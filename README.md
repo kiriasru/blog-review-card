@@ -23,7 +23,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [(https://github.com/kiriasru/blog-review-card)]
-- Live Site URL: [https://kiriasru.github.io/qr-code-component/]
+- Live Site URL: [https://kiriasru.github.io/blog-review-card/]
 
 ## My process
 
